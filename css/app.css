@@ -1,10 +1,10 @@
-/** {
+/* * {
 border-color: rgba(255, 165, 0, 0.6);
 border-style: solid;
 border-width: 1px;
 background-color: blue;
 background: rgba(0, 165, 255, 0.1);
-}*/
+} */
 
 html {
   background-color: black;
@@ -315,7 +315,7 @@ div.windowbox {
     color: #dcdcdc;
     font-family: Arial, sans-serif;
     font-size: 10pt;
-    width: 245px;
+    width: 175px;
   }
   .blocks {
     width: 100%;
