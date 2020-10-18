@@ -73,24 +73,24 @@ h1, h2, h3 {
   padding: 0px;
 }
 h1 {
-  font-size: 36pt;
+  font-size: 24pt;
   margin-left: 40px;
 }
 h2 {
-  font-size: 24pt;
+  font-size: 18pt;
   animation-duration: 1s;
   animation-name: ani4;
   margin-bottom: 0px;
 }
 h3 {
-  font-size: 18pt;
+  font-size: 14pt;
   margin-bottom: 0px;
   margin-top: 0px;
 }
 
 .years {
   text-align: center;
-  font-size: 36px;
+  font-size: 24px;
   width: 100%;
   margin-left: 0px;
 }
@@ -108,7 +108,7 @@ p {
 }
 
 div.Simutext {
-  font-size: 24px;
+  font-size: 18px;
   margin-left: 40px;
   margin-right: 40px;
   margin-top: 10px;
@@ -121,7 +121,7 @@ div.Simutext {
 }
 
 div.polytext {
-  font-size: 24px;
+  font-size: 18px;
   margin-left: 40px;
   margin-right: 40px;
   margin-top: 10px;
@@ -163,7 +163,7 @@ div.windowbox {
   }
 
   #phead {
-    font-size: 36px;
+    font-size: 24px;
   }
 
   #Absol {
