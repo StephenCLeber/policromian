@@ -24,7 +24,7 @@ html {
 
 .navpost_1 {
   display: inline;
-  font-size: 18px;
+  font-size: 36px;
   padding: 12px;
   border-radius: 10px;
   border: 2px solid #0099ff;
@@ -66,7 +66,6 @@ a.politop {
 h1, h2, h3 {
   color: #dcdcdc;
   font-family: Arial, sans-serif;
-  /*font-family: 'Nunito', sans-serif;*/
   margin-left: 40px;
   margin-right: 40px;
   animation-duration: 1s;
@@ -74,17 +73,17 @@ h1, h2, h3 {
   padding: 0px;
 }
 h1 {
-  font-size: 18pt;
+  font-size: 48pt;
   margin-left: 40px;
 }
 h2 {
-  font-size: 14pt;
+  font-size: 24pt;
   animation-duration: 1s;
   animation-name: ani4;
   margin-bottom: 0px;
 }
 h3 {
-  font-size: 12pt;
+  font-size: 18pt;
   margin-bottom: 0px;
   margin-top: 0px;
 }
@@ -108,8 +107,8 @@ p {
   animation-name: ani4;
 }
 
-div.polytext {
-  font-size: 14px;
+div.Simutext {
+  font-size: 24px;
   margin-left: 40px;
   margin-right: 40px;
   margin-top: 10px;
@@ -117,7 +116,20 @@ div.polytext {
   background-color: rgba(0, 0, 0, 0.75);
   border-radius: 10px;
   border: 2px solid #0099ff;
-  max-width: 600px;
+  max-width: 100%;
+  tab-size: 4;
+}
+
+div.polytext {
+  font-size: 24px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 10px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+  border: 2px solid #0099ff;
+  max-width: 100%;
   tab-size: 4;
 }
 div.polisect {
@@ -150,38 +162,19 @@ div.windowbox {
     border-radius: 10px;
   }
 
-  #pewter {
-    color: rgb(128,128,128);
+  #phead {
+    font-size: 64px;
   }
-  #sim {
-    color: grey;
+
+  #Absol {
+    max-width: 6500px;
+    min-width: 350px;
+    width: 375px;
   }
-  #sofyacolor {
-    color: blue;
-  }
-  #edancolor {
-    color: yellow;
-  }
-  #viancolor {
-    color: green;
-  }
-  #rosacolor {
-    color: red;
-  }
-  #alexcolor {
-    color: orange;
-  }
-  #amandacolor {
-    color: white;
-  }
-  #violetcolor {
-    color: purple;
-  }
-  #xanatoscolor {
-    color: darkgrey;
-  }
-  #ambercolor {
-    color: gold;
+  #Rid {
+    max-width: 650px;
+    width: 375px;
+    min-width: 350px;
   }
 
   #grey {
