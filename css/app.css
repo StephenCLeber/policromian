@@ -73,11 +73,11 @@ h1, h2, h3 {
   padding: 0px;
 }
 h1 {
-  font-size: 48pt;
+  font-size: 40pt;
   margin-left: 40px;
 }
 h2 {
-  font-size: 24pt;
+  font-size: 36pt;
   animation-duration: 1s;
   animation-name: ani4;
   margin-bottom: 0px;
@@ -163,18 +163,18 @@ div.windowbox {
   }
 
   #phead {
-    font-size: 64px;
+    font-size: 40px;
   }
 
   #Absol {
     max-width: 6500px;
-    min-width: 350px;
-    width: 375px;
+    min-width: 175px;
+    width: 250px;
   }
   #Rid {
     max-width: 650px;
-    width: 375px;
-    min-width: 350px;
+    width: 250px;
+    min-width: 175px;
   }
 
   #grey {
